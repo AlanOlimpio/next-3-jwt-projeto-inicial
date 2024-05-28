@@ -3,7 +3,11 @@
 Esse aplicativo foi desenvolvido no curso <a href="https://cursos.alura.com.br/course/nextjs-autenticacao-gerenciamento-tokens" target="_blank">Next.js: autenticação e gerenciamento de Tokens</a> , tem como objetivo aprender sobre autenticação JWT em uma aplicação Next.js, entender a diferença entre Refresh Token e Access Token, desenvolva um fluxo completo de Login e logout com JWT.
 
 
-<img src="screencapture.png" alt="Login" width="100%">
+|Login|Auth Page Static|
+|----|-----|
+|<img src="screen-capture-login.png" alt="Login" width="100%">|<img src="screen-capture-page-static.png" alt="Auth Page Static" width="100%">|
+
+
 
 
 ## 🔨 Funcionalidades do projeto
